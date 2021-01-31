@@ -1,5 +1,5 @@
 # Tower_web
-# Angular code  Screen shot
+# Screen shots of UI
 
 *****Home***** 
 ![Screenshot (11)](https://user-images.githubusercontent.com/46772783/106394389-60c32700-6422-11eb-8a39-8cef146fc8cc.png)
